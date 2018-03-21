@@ -1,0 +1,6 @@
+python retrain.py \    
+    --bottleneck_dir=./inception/bottlenecks \
+    --model_dir=./inception/ \
+    --output_graph=./retrained_graph.pb \
+    --output_labels=./retrained_labels.txt \
+    --image_dir=./images/classifications/ 

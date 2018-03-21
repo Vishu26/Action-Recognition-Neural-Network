@@ -1,1 +1,1 @@
-# Action Recognition Convolutional Neural Network
+# Action Recognition Neural Network
